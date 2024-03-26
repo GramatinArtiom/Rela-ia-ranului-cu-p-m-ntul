@@ -7,7 +7,7 @@
 :root{
     --index: calc(1vw + 1vh);
     --gutter: 30px;
-    --size-small:29;
+    --size-small:25;
     --size-big:38;
     --depth:4900px;
     --transition: .75s cubic-bezier(.075, .5, 0, 1)
