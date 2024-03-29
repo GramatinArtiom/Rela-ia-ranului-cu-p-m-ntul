@@ -1,5 +1,3 @@
-//3d scroll
-
 let zSpacing = -2200,
     lastPos = zSpacing/5
     $frames = document.getElementsByClassName('frame'),
